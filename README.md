@@ -1,14 +1,14 @@
-## How To Create Readme file(##).
+## How To Create Readme file { ## }
 
 Name the file as readme.md or readme.markdown and click the ‘open preview to the side’ icon.
 
-# Heading 1
-### Heading 3
-###### Heading 6
+# Heading 1 { # }
+### Heading 3 { ### }
+###### Heading 6 { ###### }
 
 Noramal Text
 
-_In this way Italic text written_
+_In this way Italic text written_ { _italic_ }
 
 **In this way Bold Text written**
 
