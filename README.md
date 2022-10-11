@@ -16,9 +16,9 @@ _In this way Italic text written_ { _  _ }
 
 >Your quote looks like this.  { > }
 
-[Github](https://www.github.com/imkraman "Aman Github")  { [ ] withoutAnyWords( ) }
+[Github](https://www.github.com/imkraman "Aman Github")  { [ ] nogap ( ) } & for_image { ! [ ] nogap ( ) }
 
-![Image](https://cdn2.iconfinder.com/data/icons/cute-robot-3/512/937-24-512.png)
+![Image](https://cdn2.iconfinder.com/data/icons/cute-robot-3/512/937-24-512.png) 
 
 |Name|Email|Address|
 |----|-----|-------|
