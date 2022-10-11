@@ -24,7 +24,7 @@ _In this way Italic text written_ { _  _ }
 |----|-----|-------|
 |John|john@example.com|Address1|
 
-`console.log` : sytax for code sample
+`console.log` : sytax for code sample: single line  { ` ` } & multiple line { ``` ``` }
 
 ``` JavaScript
 let name = 'Aman';
