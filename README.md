@@ -10,13 +10,13 @@ Noramal Text
 
 _In this way Italic text written_ { _  _ }
 
-**In this way Bold Text written**
+**In this way Bold Text written** { ** ** }
 
-~~strike through text~~
+~~strike through text~~ { ~  ~ }
 
->Your quote looks like this.
+>Your quote looks like this.  { > }
 
-[Github](https://www.github.com/imkraman "Aman Github")
+[Github](https://www.github.com/imkraman "Aman Github")  { []( ) }
 
 ![Image](https://cdn2.iconfinder.com/data/icons/cute-robot-3/512/937-24-512.png)
 
