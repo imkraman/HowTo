@@ -8,7 +8,7 @@ Name the file as readme.md or readme.markdown and click the ‘open preview to t
 
 Noramal Text
 
-_In this way Italic text written_ { __italic__ }
+_In this way Italic text written_ { _  _ }
 
 **In this way Bold Text written**
 
